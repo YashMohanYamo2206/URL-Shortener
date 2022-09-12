@@ -1,6 +1,5 @@
-# Delta On-Sites CWD Tasks
-URL Shortener
-
+# URL Shortener
+A website that reduces the length of the URL, keeps track of number of times the short URL is visited and deletes the URL after 2-days of inactivity
 ## Setup and Getting Started
 1. Download or clone this repo to your local system.
 2. For this repo, you have to create your own `config.env` file or rename the `config.txt` file to `config.env`, which is provided as an example for the contents to be filled in .env file.
